@@ -1,0 +1,8 @@
+Semiconductors
+1983
+United States
+John Daane
+3,091
+$1.9B
+San Jose, California
+Altera Corp. is a global semiconductor company, which serves customers within the telecom and wireless, industrial automation, military and automotive, networking, computer and storage, and other vertical markets. Its other vertical market includes sub-markets of broadcast, consumer, medical and test. It designs, manufactures, and markets a variety of products: Programmable logic devices (PLDs), which consist of field-programmable gate arrays (FPGAs) and complex programmable logic devices (CPLDs), are standard semiconductorRead More integrated circuits, or chips, that the company's customers program to perform desired logic functions in their electronic systems; power system-on-chip devices (PowerSoCs), simplifies and drives the miniaturization of power circuitry typically found in the electronic systems, intellectual property (IP) cores, which can be licensed by customers to add standard functions to their PLD designs; and Proprietary development software operates on personal computers and engineering workstations, is used by customers to develop, compile, and verify their designs, and then program their designs into PLDs. The company was founded in 1983 by Robert F. Hartmann, Michael Magranet, Paul Newhagen and James D. Sansbury and is headquartered in San Jose, CA.

@@ -1,0 +1,8 @@
+Airline
+2001
+Canada
+Calin Rovinescu
+28,300
+$13B
+Saint-Laurent
+Air Canada provides airline transportation services. It engages in full-service airline, scheduled passenger and cargo services, serving more than 200 airports on six continents. It operates flights in Canada, the USA, Latin America, Europe, Australia and Asia. Air Canada was founded on January 1, 2001 and is headquartered in Saint-Laurent, Canada.

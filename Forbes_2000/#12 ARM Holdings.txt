@@ -1,0 +1,8 @@
+Semiconductors
+1990
+United Kingdom
+Simon Segars
+3,294
+$1.5B
+Cambridge
+ARM Holdings Plc designs microprocessors, physical intellectual property (IP) and related technology and software, and sells development tools to deliver the intelligence in applications ranging from sensors to servers, including smartphones, tablets, enterprise infrastructure and the Internet of things. The company licenses and sells its technology and products to electronics companies, which in turn manufacture, market and sell microprocessors, application-specific integrated circuits, application-specific standardRead More processors and microcontrollers. It also licenses and sells development tools directly to systems companies and provides support services to its licensees, systems companies and other systems designers. The company operates through the following divisions: Processor, Physical IP and System Design. The Processor Division encompasses those resources that are centered around microprocessor cores, including specific functions such as graphics IP, fabric IP, embedded software IP and configurable digital signal processing (DSP) IP. The Physical IP Division is concerned with the building blocks necessary for translation of a circuit design into actual silicon. The System Design Division is focused on the tools and models used to create and debug software and system-on-chip designs. ARM Holdings was founded by Michael P. Muller on October 16, 1990 and is headquartered in Cambridge, the United Kingdom.
